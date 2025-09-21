@@ -53,7 +53,7 @@ This is primarily for my personal learning, but feel free to:
 
 If you’d like to connect or chat about **iOS development**, **Swift**, or **LeetCode prep**, reach out:
 
-* LinkedIn: [Your Name](https://www.linkedin.com/in/randy-messo/)
+* LinkedIn: [Randy Messo](https://www.linkedin.com/in/randy-messo/)
 
 ---
 
