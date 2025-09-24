@@ -35,7 +35,7 @@ I’m using this repo to practice algorithms, data structures, and problem-solvi
 
 ## 📈 Progress
 
-* Total problems solved: `6`
+* Total problems solved: `14`
 * Currently focusing on: `Arrays`, `Strings`, and `Dynamic Programming`.
 
 ---
