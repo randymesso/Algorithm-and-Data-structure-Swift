@@ -61,7 +61,8 @@ Swift `String` is a collection of `Character`s, but since it’s **Unicode-corre
   - Amortized: `O(1)` (like `Array`, buffer grows in chunks)  
   - Worst-case: `O(n)` (when resizing happens)  
 - **Insert/remove at arbitrary index**: `O(n)` — must traverse and shift characters, plus handle Unicode boundaries.  
-- **Update character at index**: `O(n)` — must traverse from start to the index.  
+- **Update character at index**: `O(n)` — must traverse from start to the index.
+- **Reverse String**: Creating a ReversedCollection<String> is `O(1)`, making that into a new string is `O(n)`
 
 ---
 
